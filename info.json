@@ -10,6 +10,6 @@
     "priorities": {
         "on_worker_process": 0
     },
-    "tags": "video,encoder,ffmpeg",
+    "tags": "video,ffmpeg",
     "version": "0.0.4"
 }
